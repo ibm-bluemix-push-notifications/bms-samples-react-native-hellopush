@@ -27,9 +27,9 @@ var optionsJson = {"categories": { "Category_Name1":[
 };
 
 Push.init({
-	"appGUID":"db17bca5-9bd4-4a46-a6cf-fd9c27a138b3",
-	"clientSecret":"47af0472-fce0-4272-8c0b-de3044dd80da",
-	"region":".au-syd.bluemix.net",
+	"appGUID":"xxxxx",
+	"clientSecret":"xxxxxx",
+	"region":"xxxx",
 	"options": optionsJson
 }).then(function(response) {
     //alert("Success: " + response);
