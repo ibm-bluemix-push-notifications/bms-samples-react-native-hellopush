@@ -1,6 +1,6 @@
 # bms-samples-react-native-hellopush
 
-IBM Cloud push notifications service sample app in React native 
+IBM Cloud Push Notifications service sample app in React native 
 
 
 ## Requirements:
