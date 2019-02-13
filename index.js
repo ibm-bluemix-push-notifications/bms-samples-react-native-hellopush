@@ -4,7 +4,7 @@ import {AppRegistry} from 'react-native';
 import App from './App';
 import {name as appName} from './app.json';
 
-import {Push} from 'react-native-bmd-push-react';
+import {Push} from 'bmd-push-react-native';
 import { DeviceEventEmitter } from 'react-native';
 
 AppRegistry.registerComponent(appName, () => App);
