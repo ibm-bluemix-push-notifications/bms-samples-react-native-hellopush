@@ -1034,6 +1034,10 @@ big-integer@^1.6.7:
   version "1.6.40"
   resolved "https://registry.yarnpkg.com/big-integer/-/big-integer-1.6.40.tgz#02e4cd4d6e266c4d9ece2469c05cb6439149fc78"
 
+bmd-push-react-native@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/bmd-push-react-native/-/bmd-push-react-native-1.1.0.tgz#201b87cf399e03d7ed2b969d9c3dde1c87772d4c"
+
 bplist-creator@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/bplist-creator/-/bplist-creator-0.0.7.tgz#37df1536092824b87c42f957b01344117372ae45"
@@ -3943,9 +3947,6 @@ react-devtools-core@^3.4.2:
 react-is@^16.6.3:
   version "16.7.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.7.0.tgz#c1bd21c64f1f1364c6f70695ec02d69392f41bfa"
-
-react-native-bmd-push-react@/Users/ananthakrishnankg/Desktop/work/Push_Team/mar-17-17/react/dec19/SDK/bmd-push-react:
-  version "1.0.0"
 
 react-native@0.57.8:
   version "0.57.8"

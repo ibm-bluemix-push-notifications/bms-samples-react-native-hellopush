@@ -35,10 +35,9 @@ github "ibm-bluemix-mobile-services/bms-clientsdk-swift-push"
 
 Create a [firebase project](https://console.firebase.google.com) and add the following bundle ids for android,
 
-1. Add `com.bmdpush.react` and `com.ibm.mobilefirstplatform.clientsdk.android.push` .
+1. Add `Your Bundle ID` and `com.ibm.mobilefirstplatform.clientsdk.android.push` .
 
-Download the `google-services.json` and add inside the `node_modules` ➜ `bmd-push-react-native`  ➜ `android`.
-
+Download the `google-services.json` and add inside the `android`  ➜ `app`.
 
 ## Usage
 
